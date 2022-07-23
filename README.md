@@ -1,4 +1,4 @@
-# Kelime-ezberleme 
+# Kelime ezberleme 
 
 Benim bu kodları yazmaktaki amacım İngilizce kelimeleri bir başkasına ihtiyaç olmadan ezberlemek. 
 
