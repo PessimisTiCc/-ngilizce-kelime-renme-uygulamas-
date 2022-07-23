@@ -6,4 +6,6 @@ Ben kodları yazmaktaki amacım İngilizce kelimeleri bir başkasına ihtiyaç o
 
 Uyarı küçük büyük uyumu vardır. 
 
-Örnek kelimeler kelime listelemede mevcuttur. 
+Örnek kelimeler kelime listelemeden mevcuttur veya linkten ulaşabilirsiniz. 
+
+https://github.com/PessimisTiCc/Kelime-listeleme/blob/main/Kelimeler
